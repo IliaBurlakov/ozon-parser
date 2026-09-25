@@ -1,0 +1,6 @@
+.venv/
+cookies.json
+.env
+__pycache__/
+*_failed.txt
+*.csv
